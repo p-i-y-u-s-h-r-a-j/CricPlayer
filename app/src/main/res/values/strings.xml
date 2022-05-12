@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cric Players</string>
+    <string name="search">Search</string>
+    <string name="enter_player_name">Enter Player Name</string>
+    <string name="name_virat_kohli">Name - Virat Kohli</string>
+    <string name="player_information">PLAYER INFORMATION</string>
+</resources>
